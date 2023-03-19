@@ -14,10 +14,9 @@ def vencedor(nome, pontos):
 a = 0
 b = 0
 
-print('Somente os 3 primeiros participantes serão mostrados.')
-print('-'*54)
+print('-'*44)
 print('Sistema de Ranking - Campeonato de Surf 2023')
-print('-'*54)
+print('-'*44)
 
 participantes = list()
 scores = list()
