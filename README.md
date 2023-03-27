@@ -21,5 +21,5 @@
 <p>In addition, the program can be applied to any type of championship or competition, allowing organizers to more efficiently manage participant data and track athlete performance throughout stages.</p>
 <p>With this flexibility and adaptability, the program becomes a useful tool for those responsible for organizing sports events and contributes to a more organized and professional experience for competitors.</p>
 
-<h2>:computer: Technologies used</h2>
+<h2>:computer: Technologies</h2>
 <p>:black_circle: Python</p>
