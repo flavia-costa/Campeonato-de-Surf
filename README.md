@@ -8,7 +8,7 @@
 <p>The main objective is to register the names and scores of the participants, in order to enable analysis and classification of the competitors.</p>
 <p>As a result, the system will display the three participants with the highest scores.</p>
 
-<h2>:hammer: Functionalities</h2> 
+<h2>:hammer: Features and Application</h2> 
 <p>:ballot_box_with_check: The program has the ability to register the name and score of multiple participants in a surfing championship. Additionally, it can calculate the best scores obtained by competitors and display the information of the three participants with the highest scores.</P>
 <p>:ballot_box_with_check: With this functionality, it is possible to follow the evolution of the competitors throughout the rounds, in addition to quickly identifying the athletes with the best performance and the greatest chance of winning.</p>
 <p>:ballot_box_with_check: This makes the evaluation process more efficient and accurate, contributing to the organization.</p>
