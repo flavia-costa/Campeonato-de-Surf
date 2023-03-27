@@ -1,22 +1,22 @@
-<h1 align="center">:surfer: Campeonato de Surf</h1>
+<h1 align="center">:surfer: Surf Championship</h1>
 <p align="center">
 <img src="https://img.shields.io/badge/STATUS-FINISHED-green"/>
 </p>
 
-<h2>:pencil2: Descrição do Projeto</h2>
-<p>Este é um projeto de um campeonato de surf em Python.</p>
-<p>O objetivo deste projeto é registrar os nomes e as pontuações dos participantes e mostrar os três participantes com as melhores pontuações.</p>
+<h2>:pencil2: Project Description</h2>
+<p>This project aims to develop a registration and scoring system for a surfing championship, using the Python programming language.</p>
+<p>The main objective is to register the names and scores of the participants, in order to enable analysis and classification of the competitors.</p>
+<p>As a result, the system will display the three participants with the highest scores.</p>
 
-<h2>:white_check_mark: Status do Projeto</h2>
-<p>Projeto terminado.</p>
+<h2>:hammer: Functionalities</h2> 
+<p>:ballot_box_with_check: The program has the ability to register the name and score of multiple participants in a surfing championship. Additionally, it can calculate the best scores obtained by competitors and display the information of the three participants with the highest scores.</P>
+<p>:ballot_box_with_check: With this functionality, it is possible to follow the evolution of the competitors throughout the rounds, in addition to quickly identifying the athletes with the best performance and the greatest chance of winning.</p>
+<p>:ballot_box_with_check: This makes the evaluation process more efficient and accurate, contributing to the organization.</p>
 
-<h2>:hammer: Funcionalidades</h2> 
-<p>:ballot_box_with_check: O programa pode registrar o nome e a pontuação de diversos participantes.</P>
-<p>:ballot_box_with_check: É capaz de calcular as melhores pontuações e exibir os três participantes com as melhores pontuações.</p>
+<h2>📦 Implantation</h2>
+<p>Although the program currently only records the name and score of participants, it is possible to add other types of records, making it more versatile and suitable for different types of competitions.</p>
+<p>In addition, the program can be applied to any type of championship or competition, allowing organizers to more efficiently manage participant data and track athlete performance throughout stages.</p>
+<p>With this flexibility and adaptability, the program becomes a useful tool for those responsible for organizing sports events and contributes to a more organized and professional experience for competitors.</p>
 
-<h2>📦 Implantação</h2>
-<p>O programa só registra o nome e a pontuação dos participantes, mas pode adicionar outros tipos de registros.</p>
-<p>Pode ser usado em qualquer tipo de campeonato ou competição.</p>
-
-<h2>:computer: Tecnologias utilizadas</h2>
+<h2>:computer: Technologies used</h2>
 <p>:black_circle: Python</p>
